@@ -5,7 +5,7 @@ public class ifandelse {
 
         float promedio = 6.8F;
 
-        if(promedio >= 6.5) {
+        if(promedio >= 6.5F) {
             System.out.println("Excelente Promedio!");
         }else{
             System.out.println(" Promedo bajo");
