@@ -1,3 +1,5 @@
+package org.example.clasesystem;
+
 public class EjemploEjecutarProgramaSO {
     public static void main(String[] args) {
 

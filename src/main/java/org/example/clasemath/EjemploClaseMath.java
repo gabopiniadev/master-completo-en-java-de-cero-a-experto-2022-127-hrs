@@ -1,3 +1,5 @@
+package org.example.clasemath;
+
 public class EjemploClaseMath {
     public static void main(String[] args) {
         

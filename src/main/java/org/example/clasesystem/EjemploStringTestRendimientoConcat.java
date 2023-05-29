@@ -1,4 +1,4 @@
-package org.example.tipostringcadena;
+package org.example.clasesystem;
 
 public class EjemploStringTestRendimientoConcat {
     public static void main(String[] args) {

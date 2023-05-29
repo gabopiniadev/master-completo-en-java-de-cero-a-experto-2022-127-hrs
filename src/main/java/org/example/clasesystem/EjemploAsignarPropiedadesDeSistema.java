@@ -1,3 +1,5 @@
+package org.example.clasesystem;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Properties;

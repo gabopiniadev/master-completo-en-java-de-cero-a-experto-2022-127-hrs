@@ -1,3 +1,5 @@
+package org.example.clasesystem;
+
 import java.util.Properties;
 
 public class EjemploPropiedadesDeSistema {

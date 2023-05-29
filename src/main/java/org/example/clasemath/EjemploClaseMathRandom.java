@@ -1,3 +1,5 @@
+package org.example.clasemath;
+
 import java.util.Random;
 
 public class EjemploClaseMathRandom {
